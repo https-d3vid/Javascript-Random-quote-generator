@@ -1,0 +1,32 @@
+*{
+    margin: 20px;
+    text-align: center;
+    color: #517664;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#container{
+    background-color: #D6E5E3;
+    border-radius: 15px;
+    border: unset;
+
+}
+
+#Nextbutton{
+    background-color: rgb(33, 29, 29);
+    width: 100px;
+    border-radius: 8px;
+    border-color: rgb(0, 0, 0)
+    
+}
+
+h1{
+    text-decoration: underline;
+}
+
+#Author{
+    margin-top: 70px;
+    color: #2D3319;
+    text-align: right;
+}
